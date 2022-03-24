@@ -30,3 +30,5 @@ The sixteen groups exactly as formatted in the csv file:
 16. 16_Muscicapoidea
 17. 17_Nectaroidea
 18. 18_Passeroidea   
+
+Running rrun.sh <num> you can pass the number directly to the R script. Running multiple times shout create outfut files appended with iteration number automatically appened at the end.
