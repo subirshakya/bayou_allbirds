@@ -31,4 +31,4 @@ The sixteen groups exactly as formatted in the csv file:
 17. 17_Nectaroidea
 18. 18_Passeroidea   
 
-Running rrun.sh <num> you can pass the number directly to the R script. Running multiple times shout create outfut files appended with iteration number automatically appened at the end.
+Running rrun.sh <num> you can pass the number directly to the R script. Running multiple times shout create outfut files appended with iteration number automatically appened at the end. Or you can run a batch file and pass all values from 1 to 18 to run the whole thing with 18 parallel instances.
